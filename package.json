@@ -1,0 +1,11 @@
+{
+  "name": "uunani.github.io",
+  "version": "1.0.0",
+  "description": "UNANI's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UNANI",
+  "license": "ISC"
+}
